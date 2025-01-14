@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.150.0",
+  "version": "1.153.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -175,6 +175,7 @@
     "@pubinfo",
     "@puffer0315",
     "@qse",
+    "@quasar",
     "@radix-ui",
     "@rc-component",
     "@reach",
@@ -183,6 +184,7 @@
     "@react-spring",
     "@react-three",
     "@remax",
+    "@ricons",
     "@rjsf",
     "@rollup",
     "@ruiyun",
@@ -193,6 +195,7 @@
     "@secretflow",
     "@sentry",
     "@shopify",
+    "@sicons",
     "@size-limit",
     "@smui",
     "@splinetool",
@@ -221,6 +224,7 @@
     "@tinyjs-plugin-three",
     "@tinymce",
     "@toast-ui",
+    "@toco-design",
     "@tomjs",
     "@tryghost",
     "@tsconfig",
@@ -236,10 +240,12 @@
     "@umijs",
     "@uni",
     "@unocss",
+    "@v2icons",
     "@valeera",
     "@vanilla-extract",
     "@vercel",
     "@vibrant",
+    "@vicons",
     "@videojs-player",
     "@vitejs",
     "@vitest",
@@ -1214,6 +1220,9 @@
       "version": "*"
     },
     "@xenova/transformers": {
+      "version": "*"
+    },
+    "@xiaochuan-dev/source": {
       "version": "*"
     },
     "@xzdarcy/react-timeline-editor": {
@@ -10501,6 +10510,9 @@
     "nacos-sdk-rust-binding-node": {
       "version": "*"
     },
+    "naive-ui": {
+      "version": "*"
+    },
     "name-storage": {
       "version": "*"
     },
@@ -12128,6 +12140,9 @@
       "version": "*"
     },
     "quantize": {
+      "version": "*"
+    },
+    "quasar": {
       "version": "*"
     },
     "query-string": {

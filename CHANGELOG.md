@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.153.0](https://github.com/cnpm/unpkg-white-list/compare/v1.152.0...v1.153.0) (2025-01-13)
+
+
+### Features
+
+* add naive-ui and quasar framework ([#332](https://github.com/cnpm/unpkg-white-list/issues/332)) ([df4c41a](https://github.com/cnpm/unpkg-white-list/commit/df4c41ac5cdc457455b06bd41f0b7792c0beb265))
+
+## [1.152.0](https://github.com/cnpm/unpkg-white-list/compare/v1.151.0...v1.152.0) (2025-01-13)
+
+
+### Features
+
+* add @xiaochuan-dev/source ([#333](https://github.com/cnpm/unpkg-white-list/issues/333)) ([6f9c527](https://github.com/cnpm/unpkg-white-list/commit/6f9c527be6bfb101410cba78f44e4fd4ecc31a14)), closes [/github.com/cnpm/unpkg-white-list/blob/master/package.json#L18442](https://github.com/cnpm//github.com/cnpm/unpkg-white-list/blob/master/package.json/issues/L18442)
+
+## [1.151.0](https://github.com/cnpm/unpkg-white-list/compare/v1.150.0...v1.151.0) (2025-01-13)
+
+
+### Features
+
+* add scope [@toco-design](https://github.com/toco-design) ([#334](https://github.com/cnpm/unpkg-white-list/issues/334)) ([8af8e6d](https://github.com/cnpm/unpkg-white-list/commit/8af8e6d337532b1b0aed575ba4c0456db6b93891))
+
 ## [1.150.0](https://github.com/cnpm/unpkg-white-list/compare/v1.149.0...v1.150.0) (2024-12-15)
 
 
