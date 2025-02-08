@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.160.0](https://github.com/cnpm/unpkg-white-list/compare/v1.159.0...v1.160.0) (2025-02-07)
+
+
+### Features
+
+* add [@yookue](https://github.com/yookue) ([#341](https://github.com/cnpm/unpkg-white-list/issues/341)) ([06705ec](https://github.com/cnpm/unpkg-white-list/commit/06705ec2fa39406ddc3a6c00e26cf624ef52aaf4))
+
+## [1.159.0](https://github.com/cnpm/unpkg-white-list/compare/v1.158.0...v1.159.0) (2025-02-07)
+
+
+### Features
+
+* add Pandown ([#338](https://github.com/cnpm/unpkg-white-list/issues/338)) ([fe96fd3](https://github.com/cnpm/unpkg-white-list/commit/fe96fd311d3cd245b746585fb9fb30e7a498752f))
+
+## [1.158.0](https://github.com/cnpm/unpkg-white-list/compare/v1.157.0...v1.158.0) (2025-02-07)
+
+
+### Features
+
+* add bun and its platform-specified packages ([#340](https://github.com/cnpm/unpkg-white-list/issues/340)) ([68fab54](https://github.com/cnpm/unpkg-white-list/commit/68fab5456de1f85f0f949073a77ff17106e63b6a))
+
 ## [1.157.0](https://github.com/cnpm/unpkg-white-list/compare/v1.156.0...v1.157.0) (2025-02-05)
 
 
