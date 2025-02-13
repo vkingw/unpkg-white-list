@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.160.0",
+  "version": "1.162.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -910,6 +910,9 @@
       "version": "*"
     },
     "@multiavatar/multiavatar": {
+      "version": "*"
+    },
+    "@next-theme": {
       "version": "*"
     },
     "@novnc/novnc": {
@@ -7353,6 +7356,9 @@
     "hexo-generator-index": {
       "version": "*"
     },
+    "hexo-generator-searchdb": {
+      "version": "*"
+    },
     "hexo-generator-tag": {
       "version": "*"
     },
@@ -11157,6 +11163,9 @@
     "p5": {
       "version": "*"
     },
+    "pace-js": {
+      "version": "*"
+    },
     "package-hash": {
       "version": "*"
     },
@@ -12178,6 +12187,9 @@
       "version": "*"
     },
     "queue": {
+      "version": "*"
+    },
+    "quicklink": {
       "version": "*"
     },
     "quicktype-core": {
@@ -18031,6 +18043,9 @@
       "version": "*"
     },
     "vux-loader": {
+      "version": "*"
+    },
+    "vxe-pc-ui": {
       "version": "*"
     },
     "vxe-table": {
