@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.171.0",
+  "version": "1.172.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -132,6 +132,7 @@
     "@kne-components",
     "@koa",
     "@latticexyz",
+    "@leancloud",
     "@lerna",
     "@lincy",
     "@lingui",
@@ -9101,6 +9102,12 @@
       "version": "*"
     },
     "leaflet.markercluster": {
+      "version": "*"
+    },
+    "leancloud-realtime": {
+      "version": "*"
+    },
+    "leancloud-storage": {
       "version": "*"
     },
     "left-pad": {
@@ -18421,9 +18428,6 @@
     "wormhole-x": {
       "version": "*"
     },
-    "wot-design-uni-assets": {
-      "version": "*"
-    },
     "wrapper-webpack-plugin": {
       "version": "*"
     },
@@ -18518,9 +18522,6 @@
       "version": "*"
     },
     "xhr2": {
-      "version": "*"
-    },
-    "xiao-xm": {
       "version": "*"
     },
     "xiaochuan-source-dev": {
