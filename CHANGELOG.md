@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.175.0](https://github.com/cnpm/unpkg-white-list/compare/v1.174.0...v1.175.0) (2025-04-03)
+
+
+### Features
+
+* add "@ebiz/lowcode-components" package ([#354](https://github.com/cnpm/unpkg-white-list/issues/354)) ([daca11a](https://github.com/cnpm/unpkg-white-list/commit/daca11a838df8cb6c6b8c3d26751fc3a4a16b432))
+
+## [1.174.0](https://github.com/cnpm/unpkg-white-list/compare/v1.173.0...v1.174.0) (2025-04-03)
+
+
+### Features
+
+* add skulpt ([#361](https://github.com/cnpm/unpkg-white-list/issues/361)) ([8fbfa85](https://github.com/cnpm/unpkg-white-list/commit/8fbfa85e8b158c0543860a53a24ec5fb8e11a9d4))
+
+## [1.173.0](https://github.com/cnpm/unpkg-white-list/compare/v1.172.0...v1.173.0) (2025-04-03)
+
+
+### Features
+
+* add esbuild-wasm ([#362](https://github.com/cnpm/unpkg-white-list/issues/362)) ([a5f302f](https://github.com/cnpm/unpkg-white-list/commit/a5f302fa5075d42ade9c4607fb469939cc5b8d39))
+
 ## [1.172.0](https://github.com/cnpm/unpkg-white-list/compare/v1.171.1...v1.172.0) (2025-04-01)
 
 
