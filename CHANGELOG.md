@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.183.0](https://github.com/cnpm/unpkg-white-list/compare/v1.182.0...v1.183.0) (2025-06-03)
+
+
+### Features
+
+* add @hotwired/turbo ([#378](https://github.com/cnpm/unpkg-white-list/issues/378)) ([db7bdfc](https://github.com/cnpm/unpkg-white-list/commit/db7bdfc449b94182a1a8bc5f7765201fa59f18d9))
+
+## [1.182.0](https://github.com/cnpm/unpkg-white-list/compare/v1.181.0...v1.182.0) (2025-06-03)
+
+
+### Features
+
+* add @ebiz/designer-components and @ebiz/designer-components-mobile ([#377](https://github.com/cnpm/unpkg-white-list/issues/377)) ([135b1d7](https://github.com/cnpm/unpkg-white-list/commit/135b1d7d48cc48cbd911f1cb95d49c0cddae266f))
+
+## [1.181.0](https://github.com/cnpm/unpkg-white-list/compare/v1.180.0...v1.181.0) (2025-06-03)
+
+
+### Features
+
+* add lzma ([#376](https://github.com/cnpm/unpkg-white-list/issues/376)) ([c18a2b1](https://github.com/cnpm/unpkg-white-list/commit/c18a2b11fe74d8e7fc2b9c9dc382cab7ba49de63))
+
 ## [1.180.0](https://github.com/cnpm/unpkg-white-list/compare/v1.179.0...v1.180.0) (2025-05-09)
 
 
