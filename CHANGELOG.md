@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.186.0](https://github.com/cnpm/unpkg-white-list/compare/v1.185.0...v1.186.0) (2025-06-12)
+
+
+### Features
+
+* add docsify-related packages ([#380](https://github.com/cnpm/unpkg-white-list/issues/380)) ([e1e8609](https://github.com/cnpm/unpkg-white-list/commit/e1e860960181e54040caa90e5c1e3885245934b2))
+
+## [1.185.0](https://github.com/cnpm/unpkg-white-list/compare/v1.184.0...v1.185.0) (2025-06-12)
+
+
+### Features
+
+* add emoji-picker-element-data ([#381](https://github.com/cnpm/unpkg-white-list/issues/381)) ([ce001e1](https://github.com/cnpm/unpkg-white-list/commit/ce001e1e549be7bebda9df345c7fc8bfd9b2bac2))
+
 ## [1.184.0](https://github.com/cnpm/unpkg-white-list/compare/v1.183.0...v1.184.0) (2025-06-05)
 
 

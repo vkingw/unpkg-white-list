@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.184.0",
+  "version": "1.186.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -4633,6 +4633,12 @@
     "docsearch.js": {
       "version": "*"
     },
+    "docsify": {
+      "version": "*"
+    },
+    "docsify-count": {
+      "version": "*"
+    },
     "docsify-sidebar-collapse": {
       "version": "*"
     },
@@ -5354,6 +5360,9 @@
       "version": "*"
     },
     "emoji-mart": {
+      "version": "*"
+    },
+    "emoji-picker-element-data": {
       "version": "*"
     },
     "emoji-reader": {
